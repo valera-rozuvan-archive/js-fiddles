@@ -71,7 +71,9 @@ function chainLoops(element, selfInvoked) {
         result = chainLoops(element.next, true);
     }
 
-    delete element.isNeedle;
+    if (!selfInvoked) {
+        delete element.isNeedle;
+    }
 
     return result;
 }
