@@ -6,10 +6,10 @@
  * A simple demonstration that in HTML5 mode, the YouTube API can't properly
  * handle start/end time parameters.
  *
- * If you specify start/end time parameters, then the video starts playing from the
- * start time, and ends playing at the end time. You can't make it play at a time
- * GREATER THAN THE END TIME. You can however, replay the video. In this case it will
- * start playing from the beginning and NOT FROM THE START TIME.
+ * If you specify start/end time parameters, then the video starts playing from
+ * the start time, and ends playing at the end time. You can't make it play at
+ * a time GREATER THAN THE END TIME. You can however, replay the video. In this
+ * case it will start playing from the beginning and NOT FROM THE START TIME.
  *
  * The original YouTube API demo demo taken from
  *
