@@ -10,3 +10,4 @@ My fiddles from JSFiddle.
 5. http://jsfiddle.net/RfZed/
 6. http://jsfiddle.net/YnD87/5/
 7. http://jsfiddle.net/wRRf5/20/
+8. http://jsfiddle.net/k2h7Z/34/ (part of [stackoverflow discussion](https://stackoverflow.com/questions/22800157/firefox-javascript-concurrency))
