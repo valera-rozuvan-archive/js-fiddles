@@ -1,5 +1,4 @@
-js-fiddles
-==========
+# JS Fiddles
 
 My fiddles from JSFiddle.
 
